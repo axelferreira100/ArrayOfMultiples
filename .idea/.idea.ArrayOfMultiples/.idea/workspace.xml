@@ -4,15 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e93a0eb-bc5d-41dd-94b3-2eda91773420" name="Changes" comment="" />
+    <list default="true" id="5e93a0eb-bc5d-41dd-94b3-2eda91773420" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Library/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/obj/Debug/net8.0/Library.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/obj/Debug/net8.0/Library.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/obj/Debug/net8.0/Library.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/obj/Debug/net8.0/Library.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/obj/Library.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/obj/Library.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/obj/Library.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/obj/Library.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Library/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LibraryTests/bin/Debug/net8.0/CoverletSourceRootsMapping_LibraryTests" beforeDir="false" afterPath="$PROJECT_DIR$/test/LibraryTests/bin/Debug/net8.0/CoverletSourceRootsMapping_LibraryTests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LibraryTests/obj/Debug/net8.0/LibraryTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/LibraryTests/obj/Debug/net8.0/LibraryTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LibraryTests/obj/Debug/net8.0/LibraryTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/LibraryTests/obj/Debug/net8.0/LibraryTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LibraryTests/obj/Debug/net8.0/LibraryTests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/LibraryTests/obj/Debug/net8.0/LibraryTests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LibraryTests/obj/LibraryTests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/LibraryTests/obj/LibraryTests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LibraryTests/obj/LibraryTests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/test/LibraryTests/obj/LibraryTests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LibraryTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/LibraryTests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LibraryTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/LibraryTests/obj/project.nuget.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3226IwBS4396vtgv5wmQYT7fGTS" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -22,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756606245046</updated>
       <workItem from="1756606246925" duration="611000" />
+      <workItem from="1758069005273" duration="417000" />
     </task>
     <servers />
   </component>
